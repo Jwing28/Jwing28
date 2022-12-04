@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming, Rock Climbing, and Golf!
 - 🌱 I’m currently learning ...more about TypeScript, ContentStack, NextJS
 - 💞️ I’m looking to collaborate on ...DS + Algo
-- 📫 How to reach me ...If you can find me on linkedin...feel free to reach out.
+- 📫 How to reach me ...My email is in my profile
 
 <!---
 Jwing28/Jwing28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
